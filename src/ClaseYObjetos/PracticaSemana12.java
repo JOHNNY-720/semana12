@@ -9,7 +9,7 @@ public class PracticaSemana12 {
 
         Marcadores.inicializar();
 
-        Marcadores.Impresion();
+
     }
 
 }
